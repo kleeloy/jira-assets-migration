@@ -1,17 +1,32 @@
 
 <h1> Migrating to Jira Asset Management </h1>
-Replace Snipe-IT with Jira Assets to centralize IT asset tracking, improve reporting, and integrate asset management with service request.<br />
+Led the successful migration from Snipe-IT to Jira Assets to modernize asset tracking and align with ITSM practices. Oversaw the full project lifecycle, from planning to training and go-live.<br />
 
 
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How To Configure osTicket, Prerequisites and Installation](https://www.youtube.com/watch?v=thl4tI3eKXY)
 
+<h2> 📸 Screenshots </h2>
+
+### 1. Jira Assets Object Schema Overview
+![Jira Schema](screenshots/jira-assets-schema.png)
+
+### 2. Sample Asset View in Jira
+![Asset View](screenshots/sample-asset-view.png)
+
+### 3. Automation Rule Example
+![Automation](screenshots/automation-rule.png)
+
+### 4. Workflow with Asset Integration
+![Workflow](screenshots/workflow-with-assets.png)
+
+
 <h2> Project Overview </h2>
 
 - Title: Migrating to Jira Asset Management 
 - Duration: [2 months]
-- Role: Help Desk Specialist & Jira Project Manager (for migrating to Jira Asset management)
+- Role: I led the planning, execution, and managed the migration timeline, and served as the liaison between IT and business teams.
 - Objective: Replace Snipe-IT with Jira Assets to centralize IT asset tracking, improve reporting, and integrate asset management with service requests.
 
 
@@ -36,8 +51,11 @@ Replace Snipe-IT with Jira Assets to centralize IT asset tracking, improve repor
 
 <h2> Results & Impact </h2>
 
+- Migrated 2,000+ asset records with <1% error rate
 - Enabled integrated asset management within Jira Service Desk
 - Received positive feedback from IT and help desk teams
+- Cut down service ticket resolution time by 20% due to integrated asset visibility
+- Trained 4 IT/help desk staff in under 2 weeks
 
 <h2> Certifications & Skills Demonstrated </h2>
 
