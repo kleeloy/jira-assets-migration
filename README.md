@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://imgur.com/a/PLF4gHO.png" alt="Jira logo"/>
-</p>
 
 <h1>Migrating to Jira Asset Management </h1>
 Replace Snipe-IT with Jira Assets to centralize IT asset tracking, improve reporting, and integrate asset management with service request.<br />
